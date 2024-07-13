@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,figma,githubactions,eclipse,netlify,postman,vite,visualstudio&perline=8)](https://skillicons.dev)
 
 
-## AtCrder
+## AtCoder
 ![](./profile-AtCoder/rate-chart.svg)
 
 
