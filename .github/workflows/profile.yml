@@ -8,7 +8,7 @@ jobs:
     name: generate-github-profile-atcorder
     steps:
       - uses: actions/checkout@v3
-      - uses: kinakomoch7/git-hub-profile-atcorder@0.0.1
+      - uses: kinakomoch7/git-hub-profile-atcorder@0.1.1
         env:
           USERNAME: kinako_moch7
       - name: Commit & Push
