@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-atcorder
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - uses: kinakomoch7/git-hub-profile-atcorder@v0.1.2
         env:
           USERNAME: kinako_moch7
