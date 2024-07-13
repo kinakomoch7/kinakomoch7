@@ -9,7 +9,7 @@ jobs:
     name: generate-github-profile-atcoder
     steps:
       - uses: actions/checkout@v3
-      - uses: kinakomoch7/git-hub-profile-atcoder@v0.1.8
+      - uses: kinakomoch7/github-profile-atcoder@v0.1.9
         env:
           USER_NAME: kinako_moch7
       - name: Commit & Push
