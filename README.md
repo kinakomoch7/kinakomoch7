@@ -11,7 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,figma,githubactions,eclipse,netlify,postman,vite,visualstudio&perline=8)](https://skillicons.dev)
 
 
-
+## AtCrder
+![](./profile-AtCoder/rate-chart.svg)
 
 <!--
 **kinakomoch7/kinakomoch7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
