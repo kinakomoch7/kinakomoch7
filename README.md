@@ -12,9 +12,8 @@
 
 
 ## AtCoder
-![](./profile-AtCoder/rate-chart.svg)
-
-![](./profile-AtCorder/ac-chart.svg)
+<img src="./profile-AtCoder/rate-chart.svg" width="50%">
+<img src="./profile-AtCoder/ac-chart.svg" width="50%">
 
 
 <!--
